@@ -21,7 +21,7 @@ G-TAD is combined of three modules. Which are:
 * localization module
 
 Following figure further explains the structure, firstly input videos shall be divided into snippets, then features for each snippet shall be extracted by using GCNeXt blocks. Each GCNeXt contains two graph convolution streams, one stream is responsible for fixed temporal neighbors, the other combine context into features for snippet. At the end of GCNeXt blocks, sub-graphs are extracted. Then these sub-graphs are represent by SGAlign(sub-graph of interest alignment) module. Finally localization module shall sort the detection scores and gain corresponding predicted start and end time.
-![](https://codimd.s3.shivering-isles.com/demo/uploads/5e8e64b0a1229bcb3dd758d48.PNG)
+![](https://github.com/Atherzzz/gtad_reproduce_project/blob/main/g-tad_structure.PNG)
 
 ## Dataset
 ### THUMOS-14
