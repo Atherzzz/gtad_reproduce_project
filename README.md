@@ -3,8 +3,9 @@ CS4240 Deep Learning (2021/22 Q3) group 76
 
 
 #
-Main branch------------------------ blog and script
+Blog:
+![](https://github.com/Atherzzz/gtad_reproduce_project/blob/main/DeepLearningBlog.md)
+script:
+![](https://github.com/Atherzzz/gtad_reproduce_project/blob/main/collab%20script.ipynb)
 
-
-Code branch-------------------------- codes
 
